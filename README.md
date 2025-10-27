@@ -23,4 +23,3 @@ Users can log in securely, manage their balance, and perform instant transaction
 
 ---
 
-## 📁 Project Structure
